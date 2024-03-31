@@ -2,7 +2,7 @@
   "foods": [
     {
       "id": "6b8a4a31-3498-4018-b317-d94149599c48",
-      "description": "Burger",
+      "description": "Lasagne",
       "kcal": 295,
       "protein": 17,
       "fat": 12,
@@ -34,7 +34,7 @@
     },
     {
       "id": "6b8a4a31-3498-4018-b317-d94149599c44",
-      "description": "Chicken",
+      "description": "Meat",
       "kcal": 165,
       "protein": 31,
       "fat": 3.6,
@@ -42,7 +42,7 @@
     },
     {
       "id": "6b8a4a31-3498-4018-b317-d94149599c43",
-      "description": "Salmon",
+      "description": "Fish",
       "kcal": 206,
       "protein": 22,
       "fat": 12,
@@ -50,7 +50,7 @@
     },
     {
       "id": "6b8a4a31-3498-4018-b317-d94149599c42",
-      "description": "Oatmeal",
+      "description": "Cerial",
       "kcal": 158,
       "protein": 6,
       "fat": 3.2,
@@ -58,7 +58,7 @@
     },
     {
       "id": "6b8a4a31-3498-4018-b317-d94149599c40",
-      "description": "Caca",
+      "description": "Fruit",
       "protein": 2,
       "fat": 3,
       "carbs": 4
