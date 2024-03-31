@@ -1,0 +1,12 @@
+.wrapper{
+    height: calc(100vh - 128px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-text {
+    font-size: 50px;
+    margin-bottom: 50px;
+}
+
